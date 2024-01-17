@@ -19,6 +19,11 @@ html{
     scroll-behavior: smooth;
     scroll-padding-top: 7rem;
 }
+
+body{
+    background-color: #fff;
+    }
+
 html::-webkit-scrollbar-track{
     background: transparent;
 }
